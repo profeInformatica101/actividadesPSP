@@ -1,1 +1,0 @@
-cat: /etc/pass: No such file or directory
